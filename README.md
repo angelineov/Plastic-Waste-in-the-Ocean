@@ -7,4 +7,4 @@ for our planet and our health. This project will help raise awareness of the sit
 
 #### Check the webpage of the project [webpage](https://angelineoktaviana.wixsite.com/saveoceanlife)
 
-#### Read more of the final report[final report](https://github.com/angelineov/Plastic-Waste-in-the-Ocean/blob/main/Plastic-Waste-in-the-Ocean.pdf)
+#### Read more of the final report [final report](https://github.com/angelineov/Plastic-Waste-in-the-Ocean/blob/main/Plastic-Waste-in-the-Ocean.pdf)
